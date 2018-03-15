@@ -1,0 +1,20 @@
+{
+  "name": "exoframe-template-python",
+  "version": "1.0.1",
+  "description": "Python deployment template for exoframe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Henrik Næss <henrik@heka.no>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrikcoll/exoframe-template-python.git"
+  },
+  "bugs": {
+    "url": "https://github.com/henrikcoll/exoframe-template-python/issues"
+  },
+  "homepage": "https://github.com/henrikcoll/exoframe-template-python#readme"
+}
